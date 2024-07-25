@@ -61,5 +61,20 @@ int main() {
     // enum Level myVar = MEDIUM; // ouput - 1
     // enum Level myVar = HIGH; // ouput - 2
     // cout << myVar; 
-    // return 0;
+    
+
+    // references
+    //  string food = "PIZZA";
+    //  string &meal = food;
+
+    //  cout << food << "\n";
+    //  cout << meal << "\n";
+
+    //memory reference
+
+    string food = "Pizza";
+
+    cout << &food; // o/p => 0x5ffe60
+
+    return 0;
 }
