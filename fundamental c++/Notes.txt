@@ -1,0 +1,14 @@
+Boolean - 1 bit - stores true/false
+char - 1 bit - Stores single char
+int - 2 or 4 bytes
+float - 4 bytes (6-7 decimal digits)
+double - 8 bytes (for 15 decimals digits)
+
+operators (new ones):
+++ - increment - ++x;
+-- - decrement - --x;
+
+Logical Operators:
+- && - Logical and - X < 5 && X < 10;
+- || - Logical or - X < 5 || X < 4;
+- ! - Logical not - !(X < 5 && X < 10)
