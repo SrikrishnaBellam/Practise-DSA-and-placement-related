@@ -7,10 +7,9 @@ int main() {
 
     //Reading File
     // ofstream MyFile("Sample_file.txt");
-
     // MyFile << "This is a sample file to learn CPP";
-
     // MyFile.close();
+
 
     //Writing File
     string myText;
